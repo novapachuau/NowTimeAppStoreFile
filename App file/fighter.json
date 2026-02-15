@@ -1,0 +1,37 @@
+[
+   {
+    "name": "Balmond",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero021-portrait.png/revision/latest?cb=20240602234350",
+    "script": "https://github.com/tin0521/ff/raw/main/balmond_backup.zip",
+    "tag": "Backup"
+ },
+    {  
+    "name": "Freya",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero221-portrait.png/revision/latest?cb=20231230160944",
+    "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/freya%20backup.zip",
+    "tag": "Backup"
+  },
+      {
+    "name": "Chou",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png/revision/latest?cb=20220525164846",
+    "script": "https://github.com/tin0521/ff/raw/refs/heads/main/chou_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Sun",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero271-portrait.png/revision/latest?cb=20240605114146",
+    "script": "https://github.com/tin0521/Oct2025/raw/main/sun_backup.zip",
+    "tag": "Backup"
+  },
+    {
+    "name": "Alpha",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero281-portrait.png/revision/latest?cb=20240517115107",
+    "script": "https://github.com/tin0521/ff/raw/main/alpha_backup.zip",
+    "tag": "Backup"
+  },
+]
